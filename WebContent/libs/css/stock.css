@@ -1,0 +1,11 @@
+.body{
+	background-image:url('/images/genu.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center; 
+}
+.center {
+  margin: auto;
+  width: 20%;
+  padding: 10px;
+}
