@@ -28,7 +28,7 @@ $("#example").typer({
 	});
 </script>
 <div class="col-md-4">
-
+	<p>sales</p>
 </div>
 <div class="col-md-4">
 

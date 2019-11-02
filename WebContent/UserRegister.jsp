@@ -46,10 +46,10 @@
 <p class="message">Already Registered? <a href="#">Login</a></p>
 </form>
  
- <form class="login-form">
+ <form action="CustomerLogin" method="POST" class="login-form">
  	<input type="email" name="email" placeholder="Email"/>
  		<input type="password" name="password" placeholder="Password"/>
- 		<BUTTON>Login</BUTTON>
+ 		<input type="submit" value="Login" class="btn btn-primary">
 <p class="message">Not Registered? <a href="#">Register</a></p>
 </form>
 </div>

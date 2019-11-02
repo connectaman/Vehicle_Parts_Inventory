@@ -12,6 +12,7 @@
       <li><a href="order.jsp">Order</a></li>
       <li><a href="ViewAllSales">View Sales</a></li>
       <li><a href="ViewCustomer">View Customers</a></li>
+      <li><a href="ShowAnalytics">Analytics</a></li>
       <li><a href="Logout">Log Out</a></li>
     </ul>
     
